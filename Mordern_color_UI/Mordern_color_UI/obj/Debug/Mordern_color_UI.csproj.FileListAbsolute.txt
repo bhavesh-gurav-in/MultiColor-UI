@@ -1,0 +1,15 @@
+c:\users\bhavesh\documents\visual studio 2012\Projects\Mordern_color_UI\Mordern_color_UI\bin\Debug\Mordern_color_UI.exe.config
+C:\Users\Bhavesh\documents\visual studio 2012\Projects\Mordern_color_UI\Mordern_color_UI\bin\Debug\Mordern_color_UI.exe
+C:\Users\Bhavesh\documents\visual studio 2012\Projects\Mordern_color_UI\Mordern_color_UI\bin\Debug\Mordern_color_UI.pdb
+C:\Users\Bhavesh\documents\visual studio 2012\Projects\Mordern_color_UI\Mordern_color_UI\obj\Debug\Mordern_color_UI.csprojResolveAssemblyReference.cache
+C:\Users\Bhavesh\documents\visual studio 2012\Projects\Mordern_color_UI\Mordern_color_UI\obj\Debug\Mordern_color_UI.Form1.resources
+C:\Users\Bhavesh\documents\visual studio 2012\Projects\Mordern_color_UI\Mordern_color_UI\obj\Debug\Mordern_color_UI.Properties.Resources.resources
+C:\Users\Bhavesh\documents\visual studio 2012\Projects\Mordern_color_UI\Mordern_color_UI\obj\Debug\Mordern_color_UI.csproj.GenerateResource.Cache
+C:\Users\Bhavesh\documents\visual studio 2012\Projects\Mordern_color_UI\Mordern_color_UI\obj\Debug\Mordern_color_UI.exe
+C:\Users\Bhavesh\documents\visual studio 2012\Projects\Mordern_color_UI\Mordern_color_UI\obj\Debug\Mordern_color_UI.pdb
+C:\Users\Bhavesh\documents\visual studio 2012\Projects\Mordern_color_UI\Mordern_color_UI\obj\Debug\Mordern_color_UI.Forms.FormCustomers.resources
+C:\Users\Bhavesh\documents\visual studio 2012\Projects\Mordern_color_UI\Mordern_color_UI\obj\Debug\Mordern_color_UI.Forms.FormNotification.resources
+C:\Users\Bhavesh\documents\visual studio 2012\Projects\Mordern_color_UI\Mordern_color_UI\obj\Debug\Mordern_color_UI.Forms.FormOrders.resources
+C:\Users\Bhavesh\documents\visual studio 2012\Projects\Mordern_color_UI\Mordern_color_UI\obj\Debug\Mordern_color_UI.Forms.FormProduct.resources
+C:\Users\Bhavesh\documents\visual studio 2012\Projects\Mordern_color_UI\Mordern_color_UI\obj\Debug\Mordern_color_UI.Forms.FormReporting.resources
+C:\Users\Bhavesh\documents\visual studio 2012\Projects\Mordern_color_UI\Mordern_color_UI\obj\Debug\Mordern_color_UI.Forms.FormSetting.resources
